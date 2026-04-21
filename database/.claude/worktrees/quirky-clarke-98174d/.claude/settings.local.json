@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Bash(node make_ppt.js)",
+      "Bash(npm install *)",
+      "Bash(command -v node)",
+      "Read(//usr/local/lib/**)",
+      "Bash(cmd.exe /c \"where node & where npm\")",
+      "Bash(cmd.exe /c \"node --version & npm --version\")",
+      "Bash(cmd.exe /c \"where node\")",
+      "Bash(cmd.exe /c \"where npm\")",
+      "Read(//c/Program Files/**)",
+      "Read(//c/Program Files \\(x86\\)/**)",
+      "Read(//c/Users/13983/**)",
+      "Bash(python -c \"import pptx; print\\('python-pptx available:', pptx.__version__\\)\")",
+      "Bash(conda run *)",
+      "Bash(pip install *)",
+      "Bash(python make_ppt.py)"
+    ]
+  }
+}
