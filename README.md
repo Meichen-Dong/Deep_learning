@@ -27,6 +27,7 @@ Deep_learning/
 ├── notebooks/
 │   └── rag_project.ipynb   # Main notebook (full pipeline + evaluation)
 ├── .gitignore
+└── demo.mp4
 └── RAG_(slide_pdf).pdf
 └── RAG.pptx
 └── README.md  
