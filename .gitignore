@@ -3,3 +3,4 @@
 exchange_db/
 __pycache__/
 .ipynb_checkpoints/
+.claude/
